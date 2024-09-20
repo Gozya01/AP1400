@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/main.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/main.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/main.cpp"
+},
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/Bank.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/Bank.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/Bank.cpp"
+},
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/Account.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/Account.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/Account.cpp"
+},
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/Person.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/Person.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/Person.cpp"
+},
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/Utils.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/Utils.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/Utils.cpp"
+},
+{
+  "directory": "/workspaces/AUT_AP_2024_Spring_HW2/build",
+  "command": "/usr/local/bin/aarch64-linux-gnu-g++  -I/workspaces/AUT_AP_2024_Spring_HW2/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++23 -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /workspaces/AUT_AP_2024_Spring_HW2/src/unit_test.cpp",
+  "file": "/workspaces/AUT_AP_2024_Spring_HW2/src/unit_test.cpp"
+}
+]
