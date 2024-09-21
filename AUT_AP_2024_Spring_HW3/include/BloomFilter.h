@@ -4,7 +4,10 @@
 #include <vector>
 #include <functional>  // Included for std::hash
 #include <bitset>      // Included for std::bitset
-
+#include <random>
+#include <fstream>
+#include <stdexcept>
+#include <sstream>
 #include "CDNServer.h" // Dependency for checking definitively if an item is in the dataset
 
 // BloomFilter class template for probabilistic set membership checking
